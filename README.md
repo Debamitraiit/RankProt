@@ -4,9 +4,9 @@ Relative ranking method to predict protein thermostability from protein .pdb str
 The rankprot tool runs best in Linux due to the requirement of the third party software VADAR which runs with f77 compiler.
 
 1. Need to install f77 compiler.
-2. install python 3.4.1 and install it giving the path to rankprot folder. 
-3. install promotif by typing sh makefilelinux3
-4. install vadar by ./Install. It will ask for path so give 
+2. Install python 3.4.1 and install it giving the path to rankprot folder. 
+3. Install promotif by typing sh makefilelinux3
+4. Install vadar by ./Install. It will ask for path so give 
 1) /usr/local/bin -> /home/your directory/Desktop/bin
 2) /usr/local/lib -> /home/your directory/Desktop/lib
 
